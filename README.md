@@ -55,8 +55,16 @@ Below are the Screenshots of our website chatbot which will give answers to your
 
 ![Contact](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/5223d352-4c37-4410-bf65-1fd2c096141f)
 
+# Azure DevOps Organization
+Below are the screenshots of our Azure DevOps Organization which we created as a part of our project using "Azure Devops".
 
+![Devops-1](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/d2597e9e-eada-4db1-a1d4-610bf9ce06bb)
 
+![Devops-2](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/f0181e8e-16eb-479b-ae2b-1d58c3cb496d)
+
+![Devops-3](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/82dbb77b-7e53-4077-bb43-5bb66dae0951)
+
+![Devops-4](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/eba1c9e7-4aeb-48a6-8548-9db2df2ef4a2)
 
 
 # Tech Stack :
