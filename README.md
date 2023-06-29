@@ -55,7 +55,7 @@ Below are the Screenshots of our website chatbot which will give answers to your
 
 ![Contact](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/5223d352-4c37-4410-bf65-1fd2c096141f)
 
-# Azure DevOps Organization
+# Azure DevOps Organizations
 Below are the screenshots of our Azure DevOps Organization which we created as a part of our project using "Azure Devops".
 
 ![Devops-1](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/d2597e9e-eada-4db1-a1d4-610bf9ce06bb)
@@ -65,6 +65,17 @@ Below are the screenshots of our Azure DevOps Organization which we created as a
 ![Devops-3](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/82dbb77b-7e53-4077-bb43-5bb66dae0951)
 
 ![Devops-4](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/eba1c9e7-4aeb-48a6-8548-9db2df2ef4a2)
+
+
+# Static Web Apps
+Below are the screenshots of our Azure Static Web App which we used to deploy our project using "Static Web Apps".
+
+![StaticWebApp-1](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/2a9e4d7e-690a-42e3-9735-d290c7a48340)
+
+![StaticWebApp-2](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/60306346-7ef8-4a25-918b-b8dc3392d9f3)
+
+![StaticWebApp-3](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/7093e948-a24a-4580-9c8c-e69652975d65)
+
 
 
 # Tech Stack :
