@@ -8,7 +8,7 @@ Welcome to the repository for our Real Estate Website.This website was developed
 ->For our website we used three Azure services they are  Azure bot services, Azure Devops, and static web apps.
 
 # Azure Technologies We Used In making Our Website:
-1.Azure Bot Service-Azure Bot Service provides an integrated development environment for bot building. Its integration with Power Virtual Agents, a fully hosted low-code platform, enables developers of all technical abilities build conversational AI bots—no code needed.
+1.Azure Bot Service-Azure Bot Service provides an integrated development environment for bot building. Its integration with Power Virtual Agents, a fully hosted low-code platform, enables developers of all technical abilities build conversational AI bots—no code needed. 
 
 2.Static Web Apps-Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. Apps are built and deployed based on code changes.
 
@@ -25,7 +25,7 @@ Welcome to the repository for our Real Estate Website.This website was developed
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Services,Properties,Chat Bot,Contact.
 - User can know about health information through this website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Included the feedback Survey form to increase the scope of improvement.
 
 # ScreenShots Of Our Website:
 
