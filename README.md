@@ -1,10 +1,10 @@
 # Perfect Home_Real Estate_Website
-Welcome to the repository for our Real Estate Website.This website was developed as a part of the Microsoft Future Ready Talent Internship Project.We designed this website to help the customers to know more about the real estate.This README file provides an overview about our website,Azure Technologies We Used In making Our Website,Project Link,Project video Demo Link,Features and Functionalities Of Our Website,ScreenShots Of Our Website,Tech Stack,Collaborators.
+Welcome to the repository for our Real Estate Website.This website was developed as a part of the Microsoft Future Ready Talent Internship Project.We designed this website to help the customers to know more about the real estate.This README file provides an overview about our website,Azure Technologies We Used In making Our Website, Project Link, Project video Demo Link, Features and Functionalities Of Our Website, ScreenShots Of Our Website,Tech Stack, Collaborators.
 
 
 # About Our Website:
 ->In our website we provided information about the real estate services . We also mentioned the services that we want to  provide to our customers like special pricing packages so from that  one can choose their package according to their budget and we also mentioned the details of properties which are available.
-->People can contact us through the contact details that we mentioned in our website and we also provided details about our location. And in our website you can even chat with chatbot which will help you to know more about the real estate. This website helps alot for the people who are searching for their dream home.
+->People can contact us through the contact details that we mentioned in our website and we also provided details about our location . And in our website you can even chat with chatbot which will help you to know more about the real estate. This website helps alot for the people who are searching for their dream home.
 ->For our website we used three Azure services they are  Azure bot services, Azure Devops, and static web apps.
 
 # Azure Technologies We Used In making Our Website:
@@ -17,7 +17,7 @@ Welcome to the repository for our Real Estate Website.This website was developed
 # Project Link*(GitHub repository URL): https://github.com/20A31A0502/FRTPROJECT/
 # Project Demo URL: https://witty-pond-05b898400.3.azurestaticapps.net/
 # Github Project URL: https://20a31a0502.github.io/FRTPROJECT/
-# Project Demo Video URL:https://www.youtube.com/watch?v=rZdUZAjhVao
+# Project Demo Video URL:https://www.youtube.com/watch?v=rZdUZAjhVao/
 
 # Features and Functionalities Of Our Website:
 - Interactive and responsive UI.
