@@ -88,10 +88,10 @@ Below are the screenshots of our Azure Static Web App which we used to deploy ou
 # Collaborators :
 
 1.Team Leader:
-BARLA SATYA(https://github.com/20A31A0502)
+BARLA SATYA(https://github.com/20A31A0502/)
 
 2.Second Member:
-NARAVA REVATHI(https://github.com/20A31A0517)
+NARAVA REVATHI(https://github.com/20A31A0517/)
 
 3.Third Member:
-SANGADALA JAYALAKSHMI(https://github.com/20A31A0521)
+SANGADALA JAYALAKSHMI(https://github.com/20A31A0521/)
