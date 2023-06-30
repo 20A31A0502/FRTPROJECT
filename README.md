@@ -1,5 +1,5 @@
 # Perfect Home_Real Estate_Website
-Welcome to the repository for our Real Estate Website.This Website developed as a part of the Microsoft Future Ready Talent Internship Project.We designed this website to help the customers to know more about the real estate.This README file provides an overview about our website,Azure Technologies We Used In making Our Website,Project Link,Project video Demo Link,Features and Functionalities Of Our Website,ScreenShots Of Our Website,Tech Stack.
+Welcome to the repository for our Real Estate Website.This Website developed as a part of the Microsoft Future Ready Talent Internship Project.We designed this website to help the customers to know more about the real estate.This README file provides an overview about our website,Azure Technologies We Used In making Our Website,Project Link,Project video Demo Link,Features and Functionalities Of Our Website,ScreenShots Of Our Website,Tech Stack,Collaborators.
 
 
 # About Our Website:
@@ -14,8 +14,9 @@ Welcome to the repository for our Real Estate Website.This Website developed as 
 
 3.Azure Devops-Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 
-
-# Project Demo URL: https://20a31a0502.github.io/FRTPROJECT/
+# Project Link*(GitHub repository URL): https://github.com/20A31A0502/FRTPROJECT/
+# Project Demo URL: https://witty-pond-05b898400.3.azurestaticapps.net/
+# Github Project URL: https://20a31a0502.github.io/FRTPROJECT/
 # Project Demo Video URL:
 
 # Features and Functionalities Of Our Website:
@@ -77,10 +78,20 @@ Below are the screenshots of our Azure Static Web App which we used to deploy ou
 ![StaticWebApp-3](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/7093e948-a24a-4580-9c8c-e69652975d65)
 
 
-
 # Tech Stack :
 - Azure Technologies
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
+
+# Collaborators :
+
+1.Team Leader:
+BARLA SATYA(https://github.com/20A31A0502)
+
+2.Second Member:
+NARAVA REVATHI(https://github.com/20A31A0517)
+
+3.Third Member:
+SANGADALA JAYALAKSHMI(https://github.com/20A31A0521)
