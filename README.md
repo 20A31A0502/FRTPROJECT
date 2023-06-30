@@ -1,5 +1,5 @@
 # Perfect Home_Real Estate_Website
-Welcome to the repository for our Real Estate Website.This Website developed as a part of the Microsoft Future Ready Talent Internship Project.We designed this website to help the customers to know more about the real estate.This README file provides an overview about our website,Azure Technologies We Used In making Our Website,Project Link,Project video Demo Link,Features and Functionalities Of Our Website,ScreenShots Of Our Website,Tech Stack,Collaborators.
+Welcome to the repository for our Real Estate Website.This website was developed as a part of the Microsoft Future Ready Talent Internship Project.We designed this website to help the customers to know more about the real estate.This README file provides an overview about our website,Azure Technologies We Used In making Our Website,Project Link,Project video Demo Link,Features and Functionalities Of Our Website,ScreenShots Of Our Website,Tech Stack,Collaborators.
 
 
 # About Our Website:
