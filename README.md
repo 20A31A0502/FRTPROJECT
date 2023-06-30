@@ -17,7 +17,7 @@ Welcome to the repository for our Real Estate Website.This Website developed as 
 # Project Link*(GitHub repository URL): https://github.com/20A31A0502/FRTPROJECT/
 # Project Demo URL: https://witty-pond-05b898400.3.azurestaticapps.net/
 # Github Project URL: https://20a31a0502.github.io/FRTPROJECT/
-# Project Demo Video URL:
+# Project Demo Video URL:https://www.youtube.com/watch?v=rZdUZAjhVao
 
 # Features and Functionalities Of Our Website:
 - Interactive and responsive UI.
