@@ -3,18 +3,18 @@ Welcome to the repository for our Real Estate Website.This website was developed
 
 
 # About Our Website:
-->In our website we provided information about the real estate services . We also mentioned the services that we want to  provide to our customers like special pricing packages so from that  one can choose their package according to their budget and we also mentioned the details of properties which are available.
-->People can contact us through the contact details that we mentioned in our website and we also provided details about our location . And in our website you can even chat with chatbot which will help you to know more about the real estate. This website helps alot for the people who are searching for their dream home.
-->For our website we used three Azure services they are  Azure bot services, Azure Devops, and static web apps.
+-> In our website we provided information about the real estate services . We also mentioned the services that we want to  provide to our customers like special pricing packages so from that  one can choose their package according to their budget and we also mentioned the details of properties which are available.
+-> People can contact us through the contact details that we mentioned in our website and we also provided details about our location . And in our website you can even chat with chatbot which will help you to know more about the real estate. This website helps alot for the people who are searching for their dream home.
+-> For our website we used three Azure services they are  Azure bot services, Azure Devops, and static web apps.
 
 # Azure Technologies We Used In making Our Website:
-1.Azure Bot Service-Azure Bot Service provides an integrated development environment for bot building. Its integration with Power Virtual Agents, a fully hosted low-code platform, enables developers of all technical abilities build conversational AI bots—no code needed. 
+1.Azure Bot Service - Azure Bot Service provides an integrated development environment for bot building. Its integration with Power Virtual Agents, a fully hosted low-code platform, enables developers of all technical abilities build conversational AI bots—no code needed. 
 
-2.Static Web Apps-Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. Apps are built and deployed based on code changes.
+2.Static Web Apps - Azure Static Web Apps is a service that automatically builds and deploys full stack web apps to Azure from a code repository. The workflow of Azure Static Web Apps is tailored to a developer's daily workflow. Apps are built and deployed based on code changes.
 
-3.Azure Devops-Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
+3.Azure Devops - Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.
 
-# Project Link*(GitHub repository URL): https://github.com/20A31A0502/FRTPROJECT/
+# Project Link *(GitHub repository URL): https://github.com/20A31A0502/FRTPROJECT/
 # Project Demo URL: https://witty-pond-05b898400.3.azurestaticapps.net/
 # Github Project URL: https://20a31a0502.github.io/FRTPROJECT/
 # Project Demo Video URL:https://www.youtube.com/watch?v=rZdUZAjhVao/
@@ -45,7 +45,7 @@ Welcome to the repository for our Real Estate Website.This website was developed
 
 
 # Chatbot
-Below are the Screenshots of our website chatbot which will give answers to your questions.We created this chabot using "Azure Bot Service".
+Below are the screenshots of our website chatbot which will give answers to your questions.We created this chabot using "Azure Bot Service".
 ![Chatbot-1](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/fd681d3e-21b6-4de1-a6bb-b37a36bf5aac)
 
 ![Chatbot-2](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/c6aaac4f-9d21-4713-af83-6f757ea2a953)
@@ -57,7 +57,7 @@ Below are the Screenshots of our website chatbot which will give answers to your
 ![Contact](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/5223d352-4c37-4410-bf65-1fd2c096141f)
 
 # Azure DevOps Organizations
-Below are the screenshots of our Azure DevOps Organization which we created as a part of our project using "Azure Devops".
+Below are the screenshots of our Azure DevOps Organization which we created as a part of the project using "Azure Devops".
 
 ![Devops-1](https://github.com/20A31A0502/FRTPROJECT/assets/109936464/d2597e9e-eada-4db1-a1d4-610bf9ce06bb)
 
@@ -79,11 +79,11 @@ Below are the screenshots of our Azure Static Web App which we used to deploy ou
 
 
 # Tech Stack :
-- Azure Technologies
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+-> Azure Technologies
+-> HTML
+-> CSS
+-> Bootstrap
+-> JavaScript
 
 # Collaborators :
 
